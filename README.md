@@ -1,2 +1,2 @@
 # bitcoin
-Recursos para aprender sobre bitcoin
+Recursos para aprender sobre Cryptos
